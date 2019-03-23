@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+echo "TinyTeX"
+exit 0
